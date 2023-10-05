@@ -1,6 +1,6 @@
 {
   "name": "@kduma-autoid/capacitor-webview-watchdog",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Handles situation when there is no WebView installed on user device or app crashes before loading",
   "main": "dist/plugin.cjs.js",
   "module": "dist/esm/index.js",
