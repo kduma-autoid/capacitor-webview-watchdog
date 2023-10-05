@@ -84,6 +84,7 @@ public class WebViewWatchDog {
         activity.runOnUiThread(
             () -> {
                 AlertDialog.Builder builder = new AlertDialog.Builder(context)
+                    .setCancelable(false)
                     .setTitle(R.string.header)
                     .setMessage(launch ? R.string.app_not_responding_on_launch : R.string.app_not_responding)
                     .setPositiveButton(R.string.wait_button, (dialog, which) -> {
