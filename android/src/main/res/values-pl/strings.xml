@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_not_responding">Aplikacja nie odpowiada.</string>
+    <string name="wait_button">Czekaj</string>
+    <string name="stop_button">Zamknij</string>
+    <string name="help_button">Pomoc</string>
+    <string name="help_message_title">Brak zainstalowanej przeglądarki</string>
+    <string name="help_message_content">Aby uzyskać pomoc przejdź na stronę: %1$s</string>
+    <string name="app_not_responding_on_launch">Aplikacja nie odpowiada. Sprawdź czy masz zainstalowaną aktualną przeglądarkę internetową lub komponent WebView.</string>
+</resources>

@@ -6,8 +6,15 @@ export class WebViewWatchDogWeb
   extends WebPlugin
   implements WebViewWatchDogPlugin
 {
-  async echo(options: { value: string }): Promise<{ value: string }> {
-    console.log('ECHO', options);
-    return options;
+  ping(): Promise<void> {
+    return Promise.resolve(undefined);
+  }
+
+  start(): Promise<void> {
+    return Promise.resolve(undefined);
+  }
+
+  stop(): Promise<void> {
+    return Promise.resolve(undefined);
   }
 }

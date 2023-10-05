@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_not_responding">App is not responding.</string>
+    <string name="header" translatable="false">WatchDog</string>
+    <string name="wait_button">Wait</string>
+    <string name="stop_button">Exit</string>
+    <string name="help_button">Help</string>
+    <string name="help_message_title">No web browser installed</string>
+    <string name="help_message_content">Please go to \"%1$s\" for help.</string>
+    <string name="app_not_responding_on_launch">App is not responding. Please check that you have WebBrowser or other WebView provider installed.</string>
+</resources>
