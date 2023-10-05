@@ -1,8 +1,8 @@
 vars:
   BUILD_NUMBER:
-    default: 3
+    default: 4
   VERSION_NAME:
-    default: 0.0.2
+    default: 0.0.3
   APP_NAME:
     default: WebView Watchdog plugin for Capacitor.js
   SHORT_APP_NAME:
