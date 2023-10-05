@@ -1,6 +1,6 @@
 {
   "name": "capacitor-app",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "WebView Watchdog plugin for Capacitor.js",
   "main": "index.js",
   "keywords": [

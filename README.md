@@ -28,6 +28,10 @@ npx cap sync
 ping() => Promise<void>
 ```
 
+Ping the watchdog.
+
+**Since:** 0.0.1
+
 --------------------
 
 
@@ -37,6 +41,10 @@ ping() => Promise<void>
 start() => Promise<void>
 ```
 
+Start the watchdog.
+
+**Since:** 0.0.1
+
 --------------------
 
 
@@ -45,6 +53,10 @@ start() => Promise<void>
 ```typescript
 stop() => Promise<void>
 ```
+
+Stops the watchdog.
+
+**Since:** 0.0.1
 
 --------------------
 
