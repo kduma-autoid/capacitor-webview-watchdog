@@ -108,6 +108,7 @@ public class WebViewWatchDog {
                             }
                         } catch(ActivityNotFoundException e) {
                             new AlertDialog.Builder(context)
+                                .setCancelable(false)
                                 .setTitle(R.string.help_message_title)
                                 .setMessage(String.format(activity.getResources().getString(R.string.help_message_content), url))
                                 .setNegativeButton(android.R.string.ok, (d, w) -> {
