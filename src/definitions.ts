@@ -10,8 +10,8 @@ declare module '@capacitor/cli' {
        * How long to wait for the ping on launch before showing the error message (in ms)
        *
        * @since 0.0.1
-       * @default 5000
-       * @example 10000
+       * @default 10000
+       * @example 15000
        */
       launchWatchDuration?: number;
 

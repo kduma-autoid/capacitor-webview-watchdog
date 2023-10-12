@@ -4,7 +4,7 @@ import androidx.annotation.Nullable;
 
 public class WebViewWatchDogConfig {
     private boolean launchWatchEnabled = true;
-    private int launchWatchDuration = 5000;
+    private int launchWatchDuration = 10000;
     private String launchFailedHelpUrl = null;
 
     private boolean runtimeWatchEnabled = false;
