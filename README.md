@@ -2,6 +2,8 @@
 
 Handles situation when there is no WebView installed on user device or app crashes before loading
 
+Check full documentation here: [opensource.duma.sh/libraries/capacitor/webview-watchdog](https://opensource.duma.sh/libraries/capacitor/webview-watchdog)
+
 ## Install
 
 ```bash
